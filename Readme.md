@@ -23,4 +23,4 @@ Source code ?
 ---------------------------------------------------
 
 The source code is shared under certain circumstance.
-Please contact me : panhailong@hust.edu.cn
+Please contact us : qd_gt@hust.edu.cn,panhailong@hust.edu.cn
