@@ -8,6 +8,7 @@ Windows 7 64bit
 
 How to use ?
 -----------------------------------------------
+Fisrt, download the dataset and the software, and then:
 
 g_surface.exe data_dir [output_name]
 
